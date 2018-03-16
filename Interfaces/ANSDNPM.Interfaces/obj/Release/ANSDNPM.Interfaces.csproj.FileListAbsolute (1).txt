@@ -1,0 +1,5 @@
+C:\Users\leonardo.bernardo\Dropbox\Projetos\DNPM\ANSDNPM\Interfaces\ANSDNPM.Interfaces\bin\Release\ANSDNPM.Interfaces.dll
+C:\Users\leonardo.bernardo\Dropbox\Projetos\DNPM\ANSDNPM\Interfaces\ANSDNPM.Interfaces\bin\Release\ANSDNPM.Interfaces.pdb
+C:\Users\leonardo.bernardo\Dropbox\Projetos\DNPM\ANSDNPM\Interfaces\ANSDNPM.Interfaces\obj\Release\ANSDNPM.Interfaces.dll
+C:\Users\leonardo.bernardo\Dropbox\Projetos\DNPM\ANSDNPM\Interfaces\ANSDNPM.Interfaces\obj\Release\ANSDNPM.Interfaces.pdb
+C:\Users\leonardo.bernardo\Dropbox\Projetos\DNPM\ANSDNPM\Interfaces\ANSDNPM.Interfaces\obj\Release\ANSDNPM.Interfaces.csprojResolveAssemblyReference.cache

@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\leonardo.bernardo\Dropbox\Builds\DNPM\ANSDNPM\Site</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="about.html">
+      <publishTime>10/11/2016 13:53:06</publishTime>
+    </File>
+    <File Include="bin/ANSDNPM.Site.dll">
+      <publishTime>11/17/2016 16:09:58</publishTime>
+    </File>
+    <File Include="contact.html">
+      <publishTime>10/11/2016 13:53:06</publishTime>
+    </File>
+    <File Include="css/ie.css">
+      <publishTime>10/11/2016 13:53:06</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>11/03/2016 10:54:38</publishTime>
+    </File>
+    <File Include="Home/Home.aspx">
+      <publishTime>11/17/2016 15:20:41</publishTime>
+    </File>
+    <File Include="Home/index.html">
+      <publishTime>10/11/2016 13:56:47</publishTime>
+    </File>
+    <File Include="ie.css">
+      <publishTime>10/11/2016 13:58:07</publishTime>
+    </File>
+    <File Include="images/200x150.gif">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/ad125x125.jpg">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/ad468x60.gif">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/background.gif">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/divider.gif">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/featured.jpg">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/header.gif">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/image.png">
+      <publishTime>11/17/2016 15:13:22</publishTime>
+    </File>
+    <File Include="images/logo.gif">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/logo.png">
+      <publishTime>11/03/2016 10:09:26</publishTime>
+    </File>
+    <File Include="images/more.gif">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/rss.gif">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/search.gif">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/_flickr1.jpg">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/_flickr2.jpg">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/_flickr3.jpg">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/_flickr4.jpg">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/_flickr5.jpg">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/_flickr6.jpg">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/_thumb1.jpg">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/_thumb2.jpg">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/_thumb3.jpg">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/_thumb4.jpg">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="images/_youtube.jpg">
+      <publishTime>11/03/2016 09:50:18</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>10/11/2016 13:53:06</publishTime>
+    </File>
+    <File Include="Institucional/ConselhoFiscal.aspx">
+      <publishTime>11/17/2016 15:02:05</publishTime>
+    </File>
+    <File Include="Institucional/DelegaciasEstaduais.aspx">
+      <publishTime>11/17/2016 15:03:00</publishTime>
+    </File>
+    <File Include="Institucional/DiretoriaExecutiva.aspx">
+      <publishTime>11/17/2016 15:03:04</publishTime>
+    </File>
+    <File Include="Institucional/MissaoVisaoValores.aspx">
+      <publishTime>11/17/2016 15:03:07</publishTime>
+    </File>
+    <File Include="Institucional/NossaHistoria.aspx">
+      <publishTime>11/17/2016 15:03:11</publishTime>
+    </File>
+    <File Include="Institucional/Ouvidoria.aspx">
+      <publishTime>11/17/2016 15:03:14</publishTime>
+    </File>
+    <File Include="MasterPages/mpANSDNPM.Master">
+      <publishTime>11/17/2016 14:56:40</publishTime>
+    </File>
+    <File Include="page.html">
+      <publishTime>10/11/2016 13:53:06</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>11/17/2016 16:10:02</publishTime>
+    </File>
+    <File Include="style.css">
+      <publishTime>10/11/2016 13:58:07</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/17/2016 16:09:59</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

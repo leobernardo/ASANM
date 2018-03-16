@@ -1,0 +1,6 @@
+C:\Users\leonardo.bernardo\Dropbox\Projetos\DNPM\ANSDNPM\Site\ANSDNPM.Site\bin\ANSDNPM.Site.dll.config
+C:\Users\leonardo.bernardo\Dropbox\Projetos\DNPM\ANSDNPM\Site\ANSDNPM.Site\bin\ANSDNPM.Site.dll
+C:\Users\leonardo.bernardo\Dropbox\Projetos\DNPM\ANSDNPM\Site\ANSDNPM.Site\bin\ANSDNPM.Site.pdb
+C:\Users\leonardo.bernardo\Dropbox\Projetos\DNPM\ANSDNPM\Site\ANSDNPM.Site\obj\Release\ANSDNPM.Site.dll
+C:\Users\leonardo.bernardo\Dropbox\Projetos\DNPM\ANSDNPM\Site\ANSDNPM.Site\obj\Release\ANSDNPM.Site.pdb
+C:\Users\leonardo.bernardo\Dropbox\Projetos\DNPM\ANSDNPM\Site\ANSDNPM.Site\obj\Release\ANSDNPM.Site.csprojResolveAssemblyReference.cache

@@ -1,0 +1,232 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="mpANSDNPM.master.cs" Inherits="ANSDNPM.Site.MasterPages.mpANSDNPM" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+
+    <title>ANSDNPM - Associação Nacional dos Servidores do DNPM</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+    <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="../css/ie.css" /><![endif]-->
+
+    <!-- Fancybox -->
+    <link rel="stylesheet" href="../plugins/fancybox/jquery.fancybox.css?v=2.1.5" media="screen" type="text/css" />
+
+    <asp:ContentPlaceHolder ID="cphHEAD" runat="server"></asp:ContentPlaceHolder>
+
+</head>
+<body>
+
+    <div id="fb-root"></div>
+    <script type="text/javascript">
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.8";
+            fjs.parentNode.insertBefore(js, fjs);
+        }
+        (document, 'script', 'facebook-jssdk'));
+    </script>
+
+    <form runat="server">
+
+    <!-- BEGIN wrapper -->
+    <div id="wrapper">
+
+        <!-- BEGIN header -->
+        <div id="header">
+            
+            <!-- begin pages -->
+            <ul class="pages">
+                <li><a href="../Home/Home.aspx">Página Inicial</a></li>
+            </ul>
+            <!-- end pages -->
+            
+            <!-- begin rss feed -->
+            <%--<a href="#" class="rss">RSS</a>--%>
+            <!-- end rss feed -->
+
+            <!-- begin logo -->
+            <h1><a href="../Home/Home.aspx">ANSDNPM</a></h1>
+            <!-- end logo -->
+            <!-- begin advertisement -->
+            <div class="ad"><a href="https://ansdnpm.temmaisvantagens.com.br/login" target="_blank"><img src="../images/bannerClubeVantagens.gif" alt="" /></a></div>
+            <!-- end advertisement -->
+            <!-- begin categories -->
+            <ul class="categories">
+                <li><a href="../Home/Home.aspx">Página inicial</a></li>
+                <li><a href="../Noticias/Noticias.aspx">Notícias</a></li>
+                <li><a href="../Comunicacoes/Artigos.aspx">Artigos</a></li>
+                <li><a href="../Filie-se/Filie-se.aspx">Filie-se</a></li>
+                <li><a href="../Contato/Contato.aspx">Contato</a></li>
+            </ul>
+            <!-- end categories -->
+        </div>
+        <!-- END header -->
+
+        <!-- BEGIN left sidebar -->
+        <div id="lsidebar">
+
+            <div class="box">
+                <h2>Institucional</h2>
+                <ul>
+                    <li><a href="../Institucional/NossaHistoria.aspx">Nossa história</a></li>
+                    <li><a href="../Institucional/DiretoriaExecutiva.aspx">Diretoria executiva</a></li>
+                    <li><a href="../Institucional/ConselhoFiscal.aspx">Conselho fiscal</a></li>
+                    <li><a href="../Institucional/Ouvidoria.aspx">Ouvidoria</a></li>
+                    <li><a href="http://www.ansdnpm.org.br/Arquivos/estatuto.pdf" target="_blank">Estatuto</a></li>
+                    <li><a href="../Institucional/MissaoVisaoValores.aspx">Missão, visão e valores</a></li>
+                    <li><a href="../Institucional/DelegaciasEstaduais.aspx">Delegacias estaduais</a></li>
+                </ul>
+            </div>
+
+            <div class="box">
+                <h2>Filie-se</h2>
+                <ul>
+                    <li><a href="../Filie-se/Filie-se.aspx">Ficha de filiação</a></li>
+                </ul>
+            </div>
+
+            <div class="box">
+                <h2>Comunicações</h2>
+                <ul>
+                    <li><a href="../Comunicacoes/AssessoriaImprensa.aspx">Assessoria de imprensa</a></li>
+                    <li><a href="../Comunicacoes/Artigos.aspx">Artigos</a></li>
+                    <li><a href="../Comunicacoes/MateriaisGraficos.aspx">Materiais gráficos</a></li>
+                </ul>
+            </div>
+
+            <div class="box">
+                <h2><a href="../Convenios/Convenios.aspx">Convênios</a></h2>
+            </div>
+
+            <div class="box">
+                <h2><a href="../Galerias/Galerias.aspx">Galeria de fotos</a></h2>
+            </div>
+
+            <div class="box">
+                <h2><a href="../NotasTecnicas/NotasTecnicas.aspx">Notas técnicas</a></h2>
+            </div>
+
+            <div class="box">
+                <h2>RECOMENDAMOS</h2>
+                <p>&nbsp;</p>
+                <ul>
+                    <li><a href="https://www.legislacaocfem.com.br/" target="_blank"><img src="../images/livro.png" style="text-align:center;" alt="" /></a></li>
+                </ul>
+                <p>&nbsp;</p>
+            </div>
+        </div>
+        <!-- END left sidebar -->
+
+        <!-- BEGIN content -->
+        <div id="content">
+
+            <asp:ContentPlaceHolder ID="cphCONTEUDO" runat="server"></asp:ContentPlaceHolder>
+
+        </div>
+        <!-- END content -->
+
+        <!-- BEGIN right sidebar -->
+        <div id="rsidebar">
+
+            <a href="../Institucional/ConsultaPublica.aspx"><img src="../images/bannerConsultaPublica.png" alt="" /></a><br />
+            <a href="http://173.230.155.7:8082/simule/login/auth" target="_blank"><img src="../images/bannerSimule.png" alt="" /></a><br />
+
+            <!-- FACEBOOK -->
+            <div class="box">
+                <div class="buffer">
+                    <h2>Facebook</h2>
+                    <div class="fb-page" data-href="https://www.facebook.com/ansdnpm/" data-tabs="timeline" data-width="300" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/ansdnpm/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ansdnpm/">Ansdnpm - Associação Nacional dos Servidores do DNPM</a></blockquote></div>
+                </div>
+            </div>
+
+            <!-- begin flickr photos -->
+            <div class="box">
+                <div class="buffer">
+                    <h2>Últimas fotos</h2>
+                    <p class="flickr"> 
+                        <asp:Repeater ID="rptUltimasFotos" runat="server">
+                            <ItemTemplate>
+                                <%#getFoto(Convert.ToInt32(Eval("IDFotoGaleria")))%>
+                            </ItemTemplate>
+                        </asp:Repeater>
+                    </p>
+                </div>
+            </div>
+            <!-- end flickr photos -->
+            
+            <!-- begin popular posts -->
+            <div class="box">
+                <div class="buffer">
+                    <h2>Últimas notas técnicas</h2>
+                    <ul>
+                        <asp:Repeater ID="rptUltimasNotasTecnicas" runat="server">
+                            <ItemTemplate>
+                                <li><a href="../NotasTecnicas/VisualizarNotaTecnica.aspx?idNtt=<%#Eval("IDNotaTecnica")%>"><b><%#Eval("NRNotaTecnica")%>/<%#Eval("NRAnoNotaTecnica")%></b> - <%#Eval("DSTitulo")%></a></li>
+                            </ItemTemplate>
+                        </asp:Repeater>
+                    </ul>
+                </div>
+            </div>
+            <!-- end popular posts -->
+            
+            <%--<!-- begin featured video -->
+            <div class="box">
+                <div class="buffer">
+                    <h2>Featured Video</h2>
+                    <div class="video"><img src="../images/_youtube.jpg" alt="" /></div>
+                </div>
+            </div>
+            <!-- end featured video -->--%>
+        </div>
+        <!-- END right sidebar -->
+
+        <div class="break"></div>
+    </div>
+    <!-- END wrapper -->
+
+    <!-- BEGIN footer -->
+    <div id="footer">
+        <div class="buffer">
+        <p class="l">Copyright &copy; 2017 - <a href="../Home/Default.aspx">ANSDNPM</a> &middot; Todos os direitos reservados</p>
+    </div>
+    </div>
+    <!-- END footer -->
+
+    </form>
+
+    <!-- jQuery 2.1.4 -->
+    <script type="text/javascript" src="../plugins/jQuery/jQuery-2.1.4.min.js"></script>
+    
+    <!-- Fancybox -->
+    <script type="text/javascript" src="../plugins/fancybox/jquery.fancybox.js?v=2.1.5"></script>
+
+    <script>
+        $(document).ready(function () {
+
+            $("a[rel=galeria]").fancybox({
+                'transitionIn': 'none',
+                'transitionOut': 'none',
+                helpers: {
+                    overlay: {
+                        opacity: 0.5,
+                        css: { 'background': 'rgba(0, 0, 0, 0.5)' }
+                    }
+                }
+            });
+
+            $(".foto").fancybox({
+                helpers: {
+                    overlay: {
+                        opacity: 0.5,
+                        css: { 'background': 'rgba(0, 0, 0, 0.5)' }
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>

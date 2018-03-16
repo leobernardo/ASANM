@@ -1,0 +1,19 @@
+C:\Users\leonardo.bernardo\Dropbox\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\bin\Debug\ANSDNPM.Dominio.dll
+C:\Users\leonardo.bernardo\Dropbox\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\bin\Debug\ANSDNPM.Dominio.pdb
+C:\Users\leonardo.bernardo\Dropbox\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\obj\Debug\ANSDNPM.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\leonardo.bernardo\Dropbox\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\obj\Debug\ANSDNPM.Dominio.dll
+C:\Users\leonardo.bernardo\Dropbox\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\obj\Debug\ANSDNPM.Dominio.pdb
+C:\Users\leonardo.bernardo\Google Drive\TI\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\bin\Debug\ANSDNPM.Dominio.dll
+C:\Users\leonardo.bernardo\Google Drive\TI\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\bin\Debug\ANSDNPM.Dominio.pdb
+C:\Users\leonardo.bernardo\Google Drive\TI\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\obj\Debug\ANSDNPM.Dominio.dll
+C:\Users\leonardo.bernardo\Google Drive\TI\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\obj\Debug\ANSDNPM.Dominio.pdb
+C:\Users\LEONARDO\OneDrive\TI\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\bin\Debug\ANSDNPM.Dominio.dll
+C:\Users\LEONARDO\OneDrive\TI\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\bin\Debug\ANSDNPM.Dominio.pdb
+C:\Users\LEONARDO\OneDrive\TI\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\obj\Debug\ANSDNPM.Dominio.dll
+C:\Users\LEONARDO\OneDrive\TI\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\obj\Debug\ANSDNPM.Dominio.pdb
+C:\Users\LEONARDO\OneDrive\TI\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\obj\Debug\ANSDNPM.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\leonardo.bernardo\OneDrive\TI\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\bin\Debug\ANSDNPM.Dominio.dll
+C:\Users\leonardo.bernardo\OneDrive\TI\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\bin\Debug\ANSDNPM.Dominio.pdb
+C:\Users\leonardo.bernardo\OneDrive\TI\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\obj\Debug\ANSDNPM.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\leonardo.bernardo\OneDrive\TI\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\obj\Debug\ANSDNPM.Dominio.dll
+C:\Users\leonardo.bernardo\OneDrive\TI\Projetos\DNPM\ANSDNPM\Dominio\ANSDNPM.Dominio\obj\Debug\ANSDNPM.Dominio.pdb
