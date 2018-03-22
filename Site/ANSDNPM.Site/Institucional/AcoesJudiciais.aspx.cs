@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace ANSDNPM.Site.Institucional
+namespace ASANM.Site.Institucional
 {
     public partial class AcoesJudiciais : System.Web.UI.Page
     {

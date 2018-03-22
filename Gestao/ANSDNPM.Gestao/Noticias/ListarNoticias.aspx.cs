@@ -5,10 +5,10 @@ using System.IO;
 
 using ImageResizer;
 
-using ANSDNPM.Dominio;
-using ANSDNPM.Integracao;
+using ASANM.Dominio;
+using ASANM.Integracao;
 
-namespace ANSDNPM.Gestao.Noticias
+namespace ASANM.Gestao.Noticias
 {
     public partial class ListarNoticias : System.Web.UI.Page
     {

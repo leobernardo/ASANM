@@ -2,10 +2,10 @@
 using System.Configuration;
 using System.Web.UI;
 
-using ANSDNPM.Dominio;
-using ANSDNPM.Integracao;
+using ASANM.Dominio;
+using ASANM.Integracao;
 
-namespace ANSDNPM.Gestao.Noticias
+namespace ASANM.Gestao.Noticias
 {
     public partial class AlterarNoticia : System.Web.UI.Page
     {

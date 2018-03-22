@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ANSDNPM.Gestao.Convenios {
+namespace ASANM.Gestao.Convenios {
     
     
     public partial class ListarConvenios {
@@ -19,7 +19,7 @@ namespace ANSDNPM.Gestao.Convenios {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ANSDNPM.Gestao.UserControls.ucMenu ucMenu;
+        protected global::ASANM.Gestao.UserControls.ucMenu ucMenu;
         
         /// <summary>
         /// btnCadastrarConvenio control.

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="[GESTÃO] ANSDNPM - Associação Nacional dos Servidores do DNPM" Language="C#" MasterPageFile="~/MasterPages/mpANSDNPM.Master" AutoEventWireup="true" CodeBehind="ListarConvenios.aspx.cs" Inherits="ANSDNPM.Gestao.Convenios.ListarConvenios" %>
+﻿<%@ Page Title="[GESTÃO] ANSDNPM - Associação Nacional dos Servidores do DNPM" Language="C#" MasterPageFile="~/MasterPages/mpASANM.Master" AutoEventWireup="true" CodeBehind="ListarConvenios.aspx.cs" Inherits="ASANM.Gestao.Convenios.ListarConvenios" %>
 
 <%@ Register Src="~/UserControls/ucMenu.ascx" TagPrefix="uc" TagName="ucMenu" %>
 

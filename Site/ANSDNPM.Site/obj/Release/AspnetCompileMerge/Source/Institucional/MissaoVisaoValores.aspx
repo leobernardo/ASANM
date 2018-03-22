@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/mpANSDNPM.Master" AutoEventWireup="true" CodeBehind="MissaoVisaoValores.aspx.cs" Inherits="ANSDNPM.Site.Institucional.MissaoVisaoValores" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/mpASANM.Master" AutoEventWireup="true" CodeBehind="MissaoVisaoValores.aspx.cs" Inherits="ASANM.Site.Institucional.MissaoVisaoValores" %>
 
 <asp:Content ContentPlaceHolderID="cphHEAD" runat="server"></asp:Content>
 

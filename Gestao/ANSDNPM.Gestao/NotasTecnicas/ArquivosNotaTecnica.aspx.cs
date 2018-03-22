@@ -3,10 +3,10 @@ using System.Configuration;
 using System.Linq;
 using System.IO;
 
-using ANSDNPM.Dominio;
-using ANSDNPM.Integracao;
+using ASANM.Dominio;
+using ASANM.Integracao;
 
-namespace ANSDNPM.Gestao.NotasTecnicas
+namespace ASANM.Gestao.NotasTecnicas
 {
     public partial class ArquivosNotaTecnica : System.Web.UI.Page
     {

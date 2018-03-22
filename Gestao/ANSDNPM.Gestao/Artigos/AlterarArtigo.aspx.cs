@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Web.UI;
 
-using ANSDNPM.Dominio;
-using ANSDNPM.Integracao;
+using ASANM.Dominio;
+using ASANM.Integracao;
 
-namespace ANSDNPM.Gestao.Artigos
+namespace ASANM.Gestao.Artigos
 {
     public partial class AlterarArtigo : System.Web.UI.Page
     {

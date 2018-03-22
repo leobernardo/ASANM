@@ -1,0 +1,16 @@
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Gestao\ANSDNPM.Gestao\obj\Release\ASANM.Gestao.csprojResolveAssemblyReference.cache
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Gestao\ANSDNPM.Gestao\bin\ASANM.Gestao.dll.config
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Gestao\ANSDNPM.Gestao\bin\ASANM.Gestao.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Gestao\ANSDNPM.Gestao\bin\ASANM.Gestao.pdb
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Gestao\ANSDNPM.Gestao\bin\ASANM.Dominio.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Gestao\ANSDNPM.Gestao\bin\ASANM.Integracao.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Gestao\ANSDNPM.Gestao\bin\ASANM.Util.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Gestao\ANSDNPM.Gestao\bin\ImageResizer.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Gestao\ANSDNPM.Gestao\bin\ASANM.Interfaces.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Gestao\ANSDNPM.Gestao\bin\ASANM.Dominio.pdb
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Gestao\ANSDNPM.Gestao\bin\ASANM.Integracao.pdb
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Gestao\ANSDNPM.Gestao\bin\ASANM.Util.pdb
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Gestao\ANSDNPM.Gestao\bin\ImageResizer.xml
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Gestao\ANSDNPM.Gestao\bin\ASANM.Interfaces.pdb
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Gestao\ANSDNPM.Gestao\obj\Release\ASANM.Gestao.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Gestao\ANSDNPM.Gestao\obj\Release\ASANM.Gestao.pdb

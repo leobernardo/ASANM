@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/mpANSDNPM.Master" AutoEventWireup="true" CodeBehind="CadastrarNotaTecnica.aspx.cs" Inherits="ANSDNPM.Gestao.NotasTecnicas.CadastrarNotaTecnica" ValidateRequest="false" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/mpASANM.Master" AutoEventWireup="true" CodeBehind="CadastrarNotaTecnica.aspx.cs" Inherits="ASANM.Gestao.NotasTecnicas.CadastrarNotaTecnica" ValidateRequest="false" %>
 
 <%@ Register Src="~/UserControls/ucMenu.ascx" TagPrefix="uc" TagName="ucMenu" %>
 

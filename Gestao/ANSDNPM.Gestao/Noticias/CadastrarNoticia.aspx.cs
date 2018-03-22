@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Configuration;
 
-using ANSDNPM.Dominio;
-using ANSDNPM.Integracao;
+using ASANM.Dominio;
+using ASANM.Integracao;
 
-namespace ANSDNPM.Gestao.Noticias
+namespace ASANM.Gestao.Noticias
 {
     public partial class CadastrarNoticia : System.Web.UI.Page
     {

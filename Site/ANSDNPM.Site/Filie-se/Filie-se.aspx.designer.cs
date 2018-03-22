@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ANSDNPM.Site.Filie_se
+namespace ASANM.Site.Filie_se
 {
 
 

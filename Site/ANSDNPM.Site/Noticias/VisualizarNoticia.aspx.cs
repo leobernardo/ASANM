@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Web.UI;
 
-using ANSDNPM.Dominio;
-using ANSDNPM.Integracao;
+using ASANM.Dominio;
+using ASANM.Integracao;
 
-namespace ANSDNPM.Site.Noticias
+namespace ASANM.Site.Noticias
 {
     public partial class VisualizarNoticia : System.Web.UI.Page
     {

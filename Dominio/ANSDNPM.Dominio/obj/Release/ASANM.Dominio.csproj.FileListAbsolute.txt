@@ -1,0 +1,4 @@
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Dominio\ANSDNPM.Dominio\bin\Release\ASANM.Dominio.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Dominio\ANSDNPM.Dominio\bin\Release\ASANM.Dominio.pdb
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Dominio\ANSDNPM.Dominio\obj\Release\ASANM.Dominio.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Dominio\ANSDNPM.Dominio\obj\Release\ASANM.Dominio.pdb

@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ANSDNPM.Gestao.Convenios {
+namespace ASANM.Gestao.Convenios {
     
     
     public partial class CadastrarArquivoConvenio {

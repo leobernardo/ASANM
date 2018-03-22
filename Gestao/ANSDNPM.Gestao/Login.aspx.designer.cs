@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ANSDNPM.Gestao {
+namespace ASANM.Gestao {
     
     
     public partial class Login {

@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ANSDNPM.Site.Institucional {
+namespace ASANM.Site.Institucional {
     
     
     public partial class Ouvidoria {

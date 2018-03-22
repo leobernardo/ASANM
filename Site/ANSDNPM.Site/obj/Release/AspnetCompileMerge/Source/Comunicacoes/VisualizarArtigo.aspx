@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/mpANSDNPM.Master" AutoEventWireup="true" CodeBehind="VisualizarArtigo.aspx.cs" Inherits="ANSDNPM.Site.Comunicacoes.VisualizarArtigo" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/mpASANM.Master" AutoEventWireup="true" CodeBehind="VisualizarArtigo.aspx.cs" Inherits="ASANM.Site.Comunicacoes.VisualizarArtigo" %>
 
 <asp:Content ContentPlaceHolderID="cphHEAD" runat="server"></asp:Content>
 

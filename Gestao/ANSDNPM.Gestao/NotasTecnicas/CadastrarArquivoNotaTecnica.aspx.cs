@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Configuration;
 
-using ANSDNPM.Dominio;
-using ANSDNPM.Integracao;
+using ASANM.Dominio;
+using ASANM.Integracao;
 
-namespace ANSDNPM.Gestao.NotasTecnicas
+namespace ASANM.Gestao.NotasTecnicas
 {
     public partial class CadastrarArquivoNotaTecnica : System.Web.UI.Page
     {

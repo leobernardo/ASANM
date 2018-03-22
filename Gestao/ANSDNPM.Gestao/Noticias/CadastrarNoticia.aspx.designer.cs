@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ANSDNPM.Gestao.Noticias {
+namespace ASANM.Gestao.Noticias {
     
     
     public partial class CadastrarNoticia {
@@ -19,7 +19,7 @@ namespace ANSDNPM.Gestao.Noticias {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ANSDNPM.Gestao.UserControls.ucMenu ucMenu;
+        protected global::ASANM.Gestao.UserControls.ucMenu ucMenu;
         
         /// <summary>
         /// rfvTitulo control.

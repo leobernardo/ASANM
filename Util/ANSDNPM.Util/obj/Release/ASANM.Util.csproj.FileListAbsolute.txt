@@ -1,0 +1,4 @@
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Util\ANSDNPM.Util\bin\Release\ASANM.Util.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Util\ANSDNPM.Util\bin\Release\ASANM.Util.pdb
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Util\ANSDNPM.Util\obj\Release\ASANM.Util.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Util\ANSDNPM.Util\obj\Release\ASANM.Util.pdb

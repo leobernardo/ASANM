@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CadastrarArquivoNotaTecnica.aspx.cs" Inherits="ANSDNPM.Gestao.NotasTecnicas.CadastrarArquivoNotaTecnica" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CadastrarArquivoNotaTecnica.aspx.cs" Inherits="ASANM.Gestao.NotasTecnicas.CadastrarArquivoNotaTecnica" %>
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">

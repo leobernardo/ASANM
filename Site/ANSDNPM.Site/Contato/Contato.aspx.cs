@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net.Mail;
 
-namespace ANSDNPM.Site.Contato
+namespace ASANM.Site.Contato
 {
     public partial class Contato : System.Web.UI.Page
     {

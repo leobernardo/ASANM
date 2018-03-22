@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="FotosGaleria.aspx.cs" Inherits="ANSDNPM.Gestao.Galerias.FotosGaleria" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="FotosGaleria.aspx.cs" Inherits="ASANM.Gestao.Galerias.FotosGaleria" %>
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">

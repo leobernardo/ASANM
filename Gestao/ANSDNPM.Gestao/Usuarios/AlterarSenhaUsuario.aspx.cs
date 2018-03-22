@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Web.UI;
 
-using ANSDNPM.Dominio;
-using ANSDNPM.Integracao;
+using ASANM.Dominio;
+using ASANM.Integracao;
 
-namespace ANSDNPM.Gestao.Usuarios
+namespace ASANM.Gestao.Usuarios
 {
     public partial class AlterarSenhaUsuario : System.Web.UI.Page
     {

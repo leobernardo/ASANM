@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ANSDNPM.Site.NotasTecnicas {
+namespace ASANM.Site.NotasTecnicas {
     
     
     public partial class NotasTecnicas {

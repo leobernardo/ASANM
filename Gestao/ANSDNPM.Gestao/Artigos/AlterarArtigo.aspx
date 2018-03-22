@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/mpANSDNPM.Master" AutoEventWireup="true" CodeBehind="AlterarArtigo.aspx.cs" Inherits="ANSDNPM.Gestao.Artigos.AlterarArtigo" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/mpASANM.Master" AutoEventWireup="true" CodeBehind="AlterarArtigo.aspx.cs" Inherits="ASANM.Gestao.Artigos.AlterarArtigo" %>
 
 <%@ Register Src="~/UserControls/ucMenu.ascx" TagPrefix="uc" TagName="ucMenu" %>
 

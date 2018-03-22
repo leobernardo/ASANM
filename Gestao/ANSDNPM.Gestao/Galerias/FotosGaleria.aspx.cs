@@ -5,10 +5,10 @@ using System.IO;
 
 using ImageResizer;
 
-using ANSDNPM.Dominio;
-using ANSDNPM.Integracao;
+using ASANM.Dominio;
+using ASANM.Integracao;
 
-namespace ANSDNPM.Gestao.Galerias
+namespace ASANM.Gestao.Galerias
 {
     public partial class FotosGaleria : System.Web.UI.Page
     {

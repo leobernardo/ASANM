@@ -5,9 +5,9 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-using ANSDNPM.Integracao;
+using ASANM.Integracao;
 
-namespace ANSDNPM.Gestao
+namespace ASANM.Gestao
 {
     public partial class Login : System.Web.UI.Page
     {

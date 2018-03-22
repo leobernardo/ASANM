@@ -1,0 +1,4 @@
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Interfaces\ANSDNPM.Interfaces\bin\Release\ASANM.Interfaces.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Interfaces\ANSDNPM.Interfaces\bin\Release\ASANM.Interfaces.pdb
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Interfaces\ANSDNPM.Interfaces\obj\Release\ASANM.Interfaces.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Interfaces\ANSDNPM.Interfaces\obj\Release\ASANM.Interfaces.pdb

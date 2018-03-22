@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace ANSDNPM.Gestao.UserControls
+namespace ASANM.Gestao.UserControls
 {
     public partial class ucMenu : System.Web.UI.UserControl
     {

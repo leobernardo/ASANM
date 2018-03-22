@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ANSDNPM.Gestao.Galerias {
+namespace ASANM.Gestao.Galerias {
     
     
     public partial class FotosGaleria {

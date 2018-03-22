@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/mpANSDNPM.Master" AutoEventWireup="true" CodeBehind="CadastrarGaleria.aspx.cs" Inherits="ANSDNPM.Gestao.Galerias.CadastrarGaleria" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/mpASANM.Master" AutoEventWireup="true" CodeBehind="CadastrarGaleria.aspx.cs" Inherits="ASANM.Gestao.Galerias.CadastrarGaleria" %>
 
 <%@ Register Src="~/UserControls/ucMenu.ascx" TagPrefix="uc" TagName="ucMenu" %>
 

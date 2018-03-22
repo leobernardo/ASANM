@@ -1,9 +1,9 @@
 ﻿using System;
 
-using ANSDNPM.Dominio;
-using ANSDNPM.Integracao;
+using ASANM.Dominio;
+using ASANM.Integracao;
 
-namespace ANSDNPM.Gestao.Galerias
+namespace ASANM.Gestao.Galerias
 {
     public partial class ListarGalerias : System.Web.UI.Page
     {

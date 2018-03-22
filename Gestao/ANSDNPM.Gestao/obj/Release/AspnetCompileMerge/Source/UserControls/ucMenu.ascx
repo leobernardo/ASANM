@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="ucMenu.ascx.cs" Inherits="ANSDNPM.Gestao.UserControls.ucMenu" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="ucMenu.ascx.cs" Inherits="ASANM.Gestao.UserControls.ucMenu" %>
 
 <ul class="nav">
 <!-- Main menu -->

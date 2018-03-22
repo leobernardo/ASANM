@@ -3,10 +3,10 @@ using System.Configuration;
 using System.Linq;
 using System.Web.UI;
 
-using ANSDNPM.Dominio;
-using ANSDNPM.Integracao;
+using ASANM.Dominio;
+using ASANM.Integracao;
 
-namespace ANSDNPM.Site.Comunicacoes
+namespace ASANM.Site.Comunicacoes
 {
     public partial class VisualizarArtigo : System.Web.UI.Page
     {

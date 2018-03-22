@@ -46,3 +46,17 @@ C:\Users\leonardo.bernardo\OneDrive\TI\Projetos\DNPM\ANSDNPM\Site\ANSDNPM.Site\b
 C:\Users\leonardo.bernardo\OneDrive\TI\Projetos\DNPM\ANSDNPM\Site\ANSDNPM.Site\obj\Release\ANSDNPM.Site.csprojResolveAssemblyReference.cache
 C:\Users\leonardo.bernardo\OneDrive\TI\Projetos\DNPM\ANSDNPM\Site\ANSDNPM.Site\obj\Release\ANSDNPM.Site.dll
 C:\Users\leonardo.bernardo\OneDrive\TI\Projetos\DNPM\ANSDNPM\Site\ANSDNPM.Site\obj\Release\ANSDNPM.Site.pdb
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Site\ANSDNPM.Site\obj\Release\ANSDNPM.Site.csprojResolveAssemblyReference.cache
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Site\ANSDNPM.Site\obj\Release\ANSDNPM.Site.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Site\ANSDNPM.Site\obj\Release\ANSDNPM.Site.pdb
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Site\ANSDNPM.Site\bin\ANSDNPM.Site.dll.config
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Site\ANSDNPM.Site\bin\ANSDNPM.Site.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Site\ANSDNPM.Site\bin\ANSDNPM.Site.pdb
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Site\ANSDNPM.Site\bin\ASANM.Dominio.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Site\ANSDNPM.Site\bin\ASANM.Integracao.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Site\ANSDNPM.Site\bin\ASANM.Util.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Site\ANSDNPM.Site\bin\ASANM.Interfaces.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Site\ANSDNPM.Site\bin\ASANM.Dominio.pdb
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Site\ANSDNPM.Site\bin\ASANM.Integracao.pdb
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Site\ANSDNPM.Site\bin\ASANM.Util.pdb
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Site\ANSDNPM.Site\bin\ASANM.Interfaces.pdb

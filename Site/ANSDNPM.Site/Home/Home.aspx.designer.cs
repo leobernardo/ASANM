@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ANSDNPM.Site.Home {
+namespace ASANM.Site.Home {
     
     
     public partial class Home {

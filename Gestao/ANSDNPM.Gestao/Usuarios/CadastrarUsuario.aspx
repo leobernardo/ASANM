@@ -1,4 +1,4 @@
-﻿<%@ Page Title="[GESTÃO] ANSDNPM - Associação Nacional dos Servidores do DNPM" Language="C#" MasterPageFile="~/MasterPages/mpANSDNPM.Master" AutoEventWireup="true" CodeBehind="CadastrarUsuario.aspx.cs" Inherits="ANSDNPM.Gestao.Usuarios.CadastrarUsuario" %>
+﻿<%@ Page Title="[GESTÃO] ANSDNPM - Associação Nacional dos Servidores do DNPM" Language="C#" MasterPageFile="~/MasterPages/mpASANM.Master" AutoEventWireup="true" CodeBehind="CadastrarUsuario.aspx.cs" Inherits="ASANM.Gestao.Usuarios.CadastrarUsuario" %>
 
 <%@ Register Src="~/UserControls/ucMenu.ascx" TagPrefix="uc" TagName="ucMenu" %>
 

@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Web.UI;
 
-using ANSDNPM.Dominio;
-using ANSDNPM.Integracao;
+using ASANM.Dominio;
+using ASANM.Integracao;
 
-namespace ANSDNPM.Gestao.Galerias
+namespace ASANM.Gestao.Galerias
 {
     public partial class AlterarGaleria : System.Web.UI.Page
     {

@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Configuration;
 
-using ANSDNPM.Dominio;
-using ANSDNPM.Integracao;
+using ASANM.Dominio;
+using ASANM.Integracao;
 
-namespace ANSDNPM.Gestao.Convenios
+namespace ASANM.Gestao.Convenios
 {
     public partial class CadastrarArquivoConvenio : System.Web.UI.Page
     {

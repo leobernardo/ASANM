@@ -1,4 +1,4 @@
-﻿namespace ANSDNPM.Dominio
+﻿namespace ASANM.Dominio
 {
     public class Galeria
     {

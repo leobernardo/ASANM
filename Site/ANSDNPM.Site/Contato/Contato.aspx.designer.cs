@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ANSDNPM.Site.Contato {
+namespace ASANM.Site.Contato {
     
     
     public partial class Contato {

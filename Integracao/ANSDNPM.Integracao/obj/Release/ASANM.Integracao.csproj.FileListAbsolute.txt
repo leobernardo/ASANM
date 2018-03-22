@@ -1,0 +1,10 @@
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Integracao\ANSDNPM.Integracao\bin\Release\ASANM.Integracao.dll.config
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Integracao\ANSDNPM.Integracao\bin\Release\ASANM.Integracao.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Integracao\ANSDNPM.Integracao\bin\Release\ASANM.Integracao.pdb
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Integracao\ANSDNPM.Integracao\bin\Release\ASANM.Dominio.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Integracao\ANSDNPM.Integracao\bin\Release\ASANM.Interfaces.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Integracao\ANSDNPM.Integracao\bin\Release\ASANM.Dominio.pdb
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Integracao\ANSDNPM.Integracao\bin\Release\ASANM.Interfaces.pdb
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Integracao\ANSDNPM.Integracao\obj\Release\ASANM.Integracao.csprojResolveAssemblyReference.cache
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Integracao\ANSDNPM.Integracao\obj\Release\ASANM.Integracao.dll
+C:\Users\leonardo.bernardo\Source\GITHUB\ASANM\Integracao\ANSDNPM.Integracao\obj\Release\ASANM.Integracao.pdb

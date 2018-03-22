@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ANSDNPM.Site.Noticias {
+namespace ASANM.Site.Noticias {
     
     
     public partial class VisualizarNoticia {

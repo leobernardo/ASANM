@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ANSDNPM.Gestao.NotasTecnicas {
+namespace ASANM.Gestao.NotasTecnicas {
     
     
     public partial class AlterarNotaTecnica {
@@ -19,7 +19,7 @@ namespace ANSDNPM.Gestao.NotasTecnicas {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ANSDNPM.Gestao.UserControls.ucMenu ucMenu;
+        protected global::ASANM.Gestao.UserControls.ucMenu ucMenu;
         
         /// <summary>
         /// ddlAno control.

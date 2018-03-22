@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ANSDNPM.Site
+namespace ASANM.Site
 {
     public partial class Default : System.Web.UI.Page
     {

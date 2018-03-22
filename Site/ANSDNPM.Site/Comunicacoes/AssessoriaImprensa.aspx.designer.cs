@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ANSDNPM.Site.Comunicacoes
+namespace ASANM.Site.Comunicacoes
 {
 
 

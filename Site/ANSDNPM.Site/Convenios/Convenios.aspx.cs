@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
 
-using ANSDNPM.Dominio;
-using ANSDNPM.Integracao;
+using ASANM.Dominio;
+using ASANM.Integracao;
 
-namespace ANSDNPM.Site.Convenios
+namespace ASANM.Site.Convenios
 {
     public partial class Convenios : System.Web.UI.Page
     {

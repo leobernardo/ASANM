@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/mpANSDNPM.Master" AutoEventWireup="true" CodeBehind="AcoesJudiciais.aspx.cs" Inherits="ANSDNPM.Site.Institucional.AcoesJudiciais" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/mpASANM.Master" AutoEventWireup="true" CodeBehind="AcoesJudiciais.aspx.cs" Inherits="ASANM.Site.Institucional.AcoesJudiciais" %>
 
 <asp:Content ContentPlaceHolderID="cphHEAD" runat="server"></asp:Content>
 

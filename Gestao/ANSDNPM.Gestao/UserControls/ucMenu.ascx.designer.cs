@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ANSDNPM.Gestao.UserControls
+namespace ASANM.Gestao.UserControls
 {
 
 

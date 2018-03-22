@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace ANSDNPM.Site.Comunicacoes
+namespace ASANM.Site.Comunicacoes
 {
     public partial class MateriaisGraficos : System.Web.UI.Page
     {

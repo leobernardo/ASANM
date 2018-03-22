@@ -6,16 +6,16 @@ using System.Configuration;
 using System.Data.OleDb;
 using System.Web;
 
-using ANSDNPM.Dominio;
-using ANSDNPM.Interfaces;
+using ASANM.Dominio;
+using ASANM.Interfaces;
 
-namespace ANSDNPM.Integracao
+namespace ASANM.Integracao
 {
     public class NoticiaDAL : IDal
     {
         public Noticia ObterDadosPorId(int _IdNoticia)
         {
-            using (OleDbConnection objConn = new OleDbConnection(ConfigurationManager.ConnectionStrings["DBAnsdnpm"].ConnectionString))
+            using (OleDbConnection objConn = new OleDbConnection(ConfigurationManager.ConnectionStrings["DBASANM"].ConnectionString))
             {
                 try
                 {
@@ -51,7 +51,7 @@ namespace ANSDNPM.Integracao
 
         public Noticia ObterDadosUltimoCadastrado()
         {
-            using (OleDbConnection objConn = new OleDbConnection(ConfigurationManager.ConnectionStrings["DBAnsdnpm"].ConnectionString))
+            using (OleDbConnection objConn = new OleDbConnection(ConfigurationManager.ConnectionStrings["DBASANM"].ConnectionString))
             {
                 try
                 {
@@ -94,7 +94,7 @@ namespace ANSDNPM.Integracao
 
         public void Alterar(object obj)
         {
-            using (OleDbConnection objConn = new OleDbConnection(ConfigurationManager.ConnectionStrings["DBAnsdnpm"].ConnectionString))
+            using (OleDbConnection objConn = new OleDbConnection(ConfigurationManager.ConnectionStrings["DBASANM"].ConnectionString))
             {
                 try
                 {
@@ -123,7 +123,7 @@ namespace ANSDNPM.Integracao
 
         public void Cadastrar(object obj)
         {
-            using (OleDbConnection objConn = new OleDbConnection(ConfigurationManager.ConnectionStrings["DBAnsdnpm"].ConnectionString))
+            using (OleDbConnection objConn = new OleDbConnection(ConfigurationManager.ConnectionStrings["DBASANM"].ConnectionString))
             {
                 try
                 {
@@ -151,7 +151,7 @@ namespace ANSDNPM.Integracao
 
         public void Excluir(object obj)
         {
-            using (OleDbConnection objConn = new OleDbConnection(ConfigurationManager.ConnectionStrings["DBAnsdnpm"].ConnectionString))
+            using (OleDbConnection objConn = new OleDbConnection(ConfigurationManager.ConnectionStrings["DBASANM"].ConnectionString))
             {
                 try
                 {
@@ -176,7 +176,7 @@ namespace ANSDNPM.Integracao
 
         public IList Listar()
         {
-            using (OleDbConnection objConn = new OleDbConnection(ConfigurationManager.ConnectionStrings["DBAnsdnpm"].ConnectionString))
+            using (OleDbConnection objConn = new OleDbConnection(ConfigurationManager.ConnectionStrings["DBASANM"].ConnectionString))
             {
                 try
                 {

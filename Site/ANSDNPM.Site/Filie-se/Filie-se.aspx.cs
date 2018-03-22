@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Configuration;
 
-namespace ANSDNPM.Site.Filie_se
+namespace ASANM.Site.Filie_se
 {
     public partial class Filie_se : System.Web.UI.Page
     {

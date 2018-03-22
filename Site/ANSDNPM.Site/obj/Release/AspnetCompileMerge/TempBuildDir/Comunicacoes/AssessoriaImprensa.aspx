@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/mpANSDNPM.Master" AutoEventWireup="true" CodeBehind="AssessoriaImprensa.aspx.cs" Inherits="ANSDNPM.Site.Comunicacoes.AssessoriaImprensa" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/mpASANM.Master" AutoEventWireup="true" CodeBehind="AssessoriaImprensa.aspx.cs" Inherits="ASANM.Site.Comunicacoes.AssessoriaImprensa" %>
 
 <asp:Content ContentPlaceHolderID="cphHEAD" runat="server"></asp:Content>
 

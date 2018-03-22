@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
 
-using ANSDNPM.Dominio;
-using ANSDNPM.Integracao;
+using ASANM.Dominio;
+using ASANM.Integracao;
 
-namespace ANSDNPM.Site.NotasTecnicas
+namespace ASANM.Site.NotasTecnicas
 {
     public partial class NotasTecnicas : System.Web.UI.Page
     {

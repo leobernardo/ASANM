@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ANSDNPM.Site.Convenios {
+namespace ASANM.Site.Convenios {
     
     
     public partial class VisualizarConvenio {

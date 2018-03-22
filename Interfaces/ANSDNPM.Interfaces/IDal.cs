@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace ANSDNPM.Interfaces
+namespace ASANM.Interfaces
 {
     public interface IDal
     {

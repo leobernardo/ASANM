@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ANSDNPM.Gestao.NotasTecnicas {
+namespace ASANM.Gestao.NotasTecnicas {
     
     
     public partial class AlterarArquivoNotaTecnica {

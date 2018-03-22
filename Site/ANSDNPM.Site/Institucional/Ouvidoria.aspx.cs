@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net.Mail;
 
-namespace ANSDNPM.Site.Institucional
+namespace ASANM.Site.Institucional
 {
     public partial class Ouvidoria : System.Web.UI.Page
     {

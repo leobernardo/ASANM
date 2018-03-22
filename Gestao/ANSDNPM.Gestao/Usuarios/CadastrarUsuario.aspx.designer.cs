@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ANSDNPM.Gestao.Usuarios {
+namespace ASANM.Gestao.Usuarios {
     
     
     public partial class CadastrarUsuario {
@@ -19,7 +19,7 @@ namespace ANSDNPM.Gestao.Usuarios {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ANSDNPM.Gestao.UserControls.ucMenu ucMenu;
+        protected global::ASANM.Gestao.UserControls.ucMenu ucMenu;
         
         /// <summary>
         /// rfvNome control.

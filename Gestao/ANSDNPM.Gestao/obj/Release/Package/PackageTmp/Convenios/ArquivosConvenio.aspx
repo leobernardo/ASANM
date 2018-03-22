@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ArquivosConvenio.aspx.cs" Inherits="ANSDNPM.Gestao.Convenios.ArquivosConvenio" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ArquivosConvenio.aspx.cs" Inherits="ASANM.Gestao.Convenios.ArquivosConvenio" %>
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
